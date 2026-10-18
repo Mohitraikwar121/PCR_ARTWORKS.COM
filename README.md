@@ -1,7 +1,7 @@
 # ARTWORK — Mr. Poonam Chand Raikwar
       
 Premium artist gallery website built with Next.js, TypeScript and React.
-
+ 
 ## Included visual archive
 The current build integrates the supplied artist and artwork photography:
 - Artist landscape portrait
